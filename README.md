@@ -35,13 +35,7 @@ To get a local copy up and running follow these simple example steps.
 - Run `git clone https://github.com/umairarshadbutt/micro-reddit.git`
 - cd to the project `cd micro-reddit`
 - Install gems `bundle install`
-- Install gems `bundle install`
 - Run `rails server`
-
-
-To make any change,
-
-- Open related file by using text editor.
 
 ## Authors
 
