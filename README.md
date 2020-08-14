@@ -23,19 +23,20 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 - Text Editor (VSCode is suggested.)
-- [Ruby](https://ruby-doc.org/downloads/)
-- [Rails](https://guides.rubyonrails.org/getting_started.html)
+- Install [Ruby](https://ruby-doc.org/downloads/)
+- Install [Rails](https://guides.rubyonrails.org/getting_started.html)
+- Install [git](https://git-scm.com/downloads)
 
 ### Setup
 
-- Install [git](https://git-scm.com/downloads)
 - Open Terminal
 - Change directory to folder to download repository
 - Use `cd <file-path>`
-- Run `git clone https://github.com/umairarshadbutt/Blogger.git`
-- Install [Ruby](https://ruby-doc.org/downloads/)
+- Run `git clone https://github.com/umairarshadbutt/micro-reddit.git`
+- cd to the project `cd micro-reddit`
+- Install gems `bundle install`
+- Install gems `bundle install`
 - Run `rails server`
-
 
 
 To make any change,
